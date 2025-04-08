@@ -56,7 +56,7 @@
 
 <div class="login-container" id="loginPage">
   <h1>Welcome 💖</h1>
-  <img ![Ella](ella.jpg)/>
+  <img ![ella](ella.jpg)/>
   <p>Enter your love credentials ✨</p>
   <input type="text" id="username" placeholder="Username"><br>
   <input type="password" id="password" placeholder="Password"><br>
