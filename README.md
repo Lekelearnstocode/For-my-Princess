@@ -56,7 +56,7 @@
 
 <div class="login-container" id="loginPage">
   <h1>Welcome 💖</h1>
-  <img src=(ella.jpg) alt=[ella]/>
+  <img ![Ella](ella.jpg)/>
   <p>Enter your love credentials ✨</p>
   <input type="text" id="username" placeholder="Username"><br>
   <input type="password" id="password" placeholder="Password"><br>
@@ -65,7 +65,7 @@
 
 <div class="letter-container hidden" id="mainContent">
   <h1>My Sweet Letter to You 💌</h1>
-  <img src=(hotcake.jpg) alt=[hotcake]/>
+  <img ![hotcake](hotcake.jpg)/>
   <div class="letter">
     <p>To My Beautiful Love,</p>
     <p>I just want you to know how much you mean to me. Every day, I look at you and feel proud - not just because of what you do, but because of who you are. Here are 30 reasons I'm proud of you:</p>
